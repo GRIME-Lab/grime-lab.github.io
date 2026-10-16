@@ -15,7 +15,9 @@ feature_row:
     url: "/grime-ai/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - title: "SAGE"
+  - image_path: /assets/images/sage-annotation.png
+    alt: "SAGE annotating a USGS river camera image"
+    title: "SAGE"
     excerpt: "GRIME AI's annotation companion. SAM2-assisted and freehand labeling builds segmentation training data, with COCO and YOLO export. Ships with GRIME AI and can also run on its own."
     url: "/sage/"
     btn_label: "Learn more"
