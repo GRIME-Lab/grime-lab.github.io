@@ -4,6 +4,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+.feature__wrapper .feature__item .feature__item-teaser {
+  max-height: none;
+  overflow: visible;
+}
+
 .feature__wrapper .feature__item .archive__item-teaser img {
   height: {{ site.feature_image_height }};
   width: auto;
