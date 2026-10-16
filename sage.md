@@ -4,7 +4,7 @@ title: SAGE
 permalink: /sage/
 ---
 
-SAGE is GRIME AI's annotation companion for building segmentation training data.
+SAGE (Segmentation & Annotation for Geospatial Ecohydrology) is GRIME AI's annotation companion for building segmentation training data.
 
 ## Features
 
