@@ -5,7 +5,8 @@
 @import "minimal-mistakes";
 
 .feature__item .archive__item-teaser img {
-  aspect-ratio: {{ site.feature_image_aspect_ratio }};
-  object-fit: cover;
-  object-position: top left;
+  height: {{ site.feature_image_height }};
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
 }
