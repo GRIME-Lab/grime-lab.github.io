@@ -32,7 +32,7 @@ permalink: /contact/
 
   <div class="person">
     <img src="{{ '/assets/images/team/caprez.jpg' | relative_url }}" alt="Adam Caprez">
-    <h3>Adam Caprez</h3>
+    <h3>Adam Caprez, PhD</h3>
     <p>ROLE ON GRIME AI</p>
     <p>Holland Computing Center, University of Nebraska-Lincoln</p>
     <p><a href="mailto:adam.caprez@unl.edu">adam.caprez@unl.edu</a></p>
