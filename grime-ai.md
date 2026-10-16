@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: GRIME AI
 permalink: /grime-ai/
 ---
