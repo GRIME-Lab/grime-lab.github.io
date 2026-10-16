@@ -3,14 +3,20 @@ layout: home
 title: Home
 ---
 
-**GRIME AI** (GaugeCam Remote Image Manager Educational - Artificial Intelligence) is open-source software for working with environmental time-lapse imagery, from download to AI segmentation.
+<p align="center">
+  <img src="{{ '/assets/images/grime-ai-logo.png' | relative_url }}" alt="GRIME AI logo" width="320">
+</p>
+
+## Mission
+
+GRIME AI builds reproducible, imagery-driven tools that convert field and remote sensing data into validated models, interactive analytics, and compelling time-lapse visualizations. We empower researchers, resource managers, and creatives to monitor ecosystems, make evidence-based decisions, and communicate environmental change with clarity and trust.
 
 ## What GRIME AI does
 
 - **Retrieves imagery** from USGS HIVIS, PhenoCam, NEON, and state mesonets
 - **Quality-controls images** automatically
 - **Explores image features** such as greenness (GCC), texture, and color clusters
-- **Trains (SAM2, SegFormer) and runs AI segmentation models** (SAM2, SAM3, SegFormer)
+- **Trains and runs AI segmentation models** (SAM2, SAM3, SegFormer)
 
 ## SAGE
 
