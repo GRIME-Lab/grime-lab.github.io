@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/GRIME-AI-Logo.png' | relative_url }}" alt="GRIME AI Logo" width="320">
+  <img src="{{ '/assets/images/GRIME-AI Logo.png' | relative_url }}" alt="GRIME AI Logo" width="320">
 </p>
 
 ## Mission
