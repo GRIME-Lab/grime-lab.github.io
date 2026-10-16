@@ -31,4 +31,6 @@ GRIME AI is released under the Apache 2.0 license.
 
 GRIME AI is supported by the National Science Foundation (Award 2411065) and the U.S. Geological Survey (Cooperative Agreement G23AC00141-00).
 
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or the U.S. Geological Survey.
+
 GRIME AI is developed by the GRIME Lab at the University of Nebraska-Lincoln. Lab website: [gaugecam.org](https://gaugecam.org)
