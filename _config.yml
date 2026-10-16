@@ -2,3 +2,7 @@ title: GRIME AI
 description: Open-source software for retrieving, quality-controlling, and AI-segmenting environmental time-lapse imagery.
 theme: minima
 github_username: GRIME-Lab
+
+header_pages:
+  - grime-ai.md
+  - sage.md
