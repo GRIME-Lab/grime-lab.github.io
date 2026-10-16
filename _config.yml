@@ -5,7 +5,7 @@ url: "https://grime-lab.github.io"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 logo: "/assets/images/grime-ai-logo.png"
-feature_image_aspect_ratio: "16 / 10"
+feature_image_height: "260px"
 
 plugins:
   - jekyll-remote-theme
