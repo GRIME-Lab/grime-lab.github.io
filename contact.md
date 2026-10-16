@@ -19,7 +19,7 @@ permalink: /contact/
     <h3>Troy E. Gilmore, PhD</h3>
     <p>Principal Investigator</p>
     <p>School of Natural Resources, University of Nebraska-Lincoln</p>
-    <p><a href="mailto:EMAIL">EMAIL</a></p>
+    <p><a href="mailto:gilmore@unl.edu">gilmore@unl.edu</a></p>
   </div>
 
   <div class="person">
