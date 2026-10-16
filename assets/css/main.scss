@@ -4,7 +4,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.feature__item .archive__item-teaser img {
+.feature__wrapper .feature__item .archive__item-teaser img {
   height: {{ site.feature_image_height }};
   width: auto;
   max-width: 100%;
