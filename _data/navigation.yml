@@ -3,5 +3,7 @@ main:
     url: /grime-ai/
   - title: "SAGE"
     url: /sage/
+  - title: "Blog"
+    url: /blog/
   - title: "Contact"
     url: /contact/
