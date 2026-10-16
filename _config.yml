@@ -1,9 +1,27 @@
 title: GRIME AI
 description: Open-source software for retrieving, quality-controlling, and AI-segmenting environmental time-lapse imagery.
-theme: minima
-github_username: GRIME-Lab
+url: "https://grime-lab.github.io"
 
-header_pages:
-  - grime-ai.md
-  - sage.md
-  - contact.md
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+logo: "/assets/images/grime-ai-logo.png"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GRIME-Lab/GRIME-AI"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
