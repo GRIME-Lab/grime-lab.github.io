@@ -6,6 +6,8 @@ permalink: /sage/
 
 SAGE (Segmentation & Annotation for Geospatial Ecohydrology) is GRIME AI's annotation companion for building segmentation training data.
 
+![SAGE annotating a Mendenhall River camera image with water, sandbar, riprap, and tree masks](/assets/images/sage-annotation.png)
+
 ## Features
 
 - SAM2-assisted labeling from point prompts
