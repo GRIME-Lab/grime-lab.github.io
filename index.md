@@ -8,9 +8,9 @@ title: Home
 ## What GRIME AI does
 
 - **Retrieves imagery** from USGS HIVIS, PhenoCam, NEON, and state mesonets
-- **Quality-controls images** automatically (blur, brightness)
+- **Quality-controls images** automatically
 - **Explores image features** such as greenness (GCC), texture, and color clusters
-- **Trains and runs AI segmentation models** (SAM2, SAM3, SegFormer)
+- **Trains (SAM2, SegFormer) and runs AI segmentation models** (SAM2, SAM3, SegFormer)
 
 ## SAGE
 
