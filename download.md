@@ -28,7 +28,7 @@ The `stable` tag is the latest release. Each release is also tagged with its ver
 
 ## Zenodo
 
-Archived copies of each release, with a citable DOI: [ZENODO_LINK](ZENODO_LINK)
+Archived releases with a citable DOI: [doi.org/10.5281/zenodo.22087226](https://doi.org/10.5281/zenodo.22087226)
 
 ## Source code
 
