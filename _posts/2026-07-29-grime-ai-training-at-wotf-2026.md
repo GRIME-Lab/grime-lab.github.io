@@ -7,7 +7,7 @@ header:
 
 *By John E. Stranzl Jr., PhD*
 
-Today I presented GRIME AI and SAGE at the [2026 Water Observing Technology Forum](https://ciroh.ua.edu/water-observing-technology-forum/) (WOTF) in Tuscaloosa, Alabama. Troy Gilmore attended and provided support during the session.
+Today I presented GRIME AI and SAGE at the [2026 Water Observing Technology Forum](https://ciroh.ua.edu/water-observing-technology-forum/) (WOTF) in Tuscaloosa, Alabama. My PhD advisor, Troy Gilmore, joined me at the forum.
 
 ## About the forum
 
